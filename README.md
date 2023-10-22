@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Recipes List](https://www.fakeivan.github.io/odin-recipes)
+- [Recipes List](https://fakeivan.github.io/odin-recipes/)
 - [Link to the Assignment](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes)
 
 ## About
